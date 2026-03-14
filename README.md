@@ -1,5 +1,9 @@
 # Tutorial del curso de Diseño Lógico evidencias: 
 
+Link de un drive con las imagenes de cada seccion porque no pude agregarlas aca
+
+https://drive.google.com/drive/folders/1Gp3bT_8nFlP6eUKVIcPbOReJLRPkRvDv?usp=sharing
+
 ## Primera parte: Instalacion de Herramientas
 
 Primero se procede a instalar los programas necesarios en este caso, VScode, sus extensiones, OSS-Cad_Suite, y GNU-Make
